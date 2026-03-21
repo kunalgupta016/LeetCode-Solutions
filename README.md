@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2465-number-of-distinct-averages](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
+## Math
+|  |
+| ------- |
+| [2469-convert-the-temperature](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 <!---LeetCode Topics End-->
