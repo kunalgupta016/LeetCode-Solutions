@@ -1,15 +1,11 @@
 class Solution {
 public:
     vector<vector<int>> reverseSubmatrix(vector<vector<int>>& grid, int x, int y, int k) {
-
-        for(int j = y; j < y + k; j++) { 
-            int t = x;
-            int b = x + k - 1;
-
-            while(t < b) {
-                swap(grid[t][j], grid[b][j]);
-                t++;
-                b--;
+        
+        
+        for(int i = 0; i < k / 2; i++) {
+            for(int j = 0; j < k; j++) {
+                swap(grid[x + i][y + j], grid[x + k - 1 - i][y + j]);
             }
         }
 
