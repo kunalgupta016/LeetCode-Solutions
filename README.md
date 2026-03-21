@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3151-special-array-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3151-special-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Two Pointers
 |  |
