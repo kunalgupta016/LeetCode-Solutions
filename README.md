@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2785-sort-vowels-in-a-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Array
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2465-number-of-distinct-averages](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Math
 |  |
 | ------- |
@@ -58,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 <!---LeetCode Topics End-->
