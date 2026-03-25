@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0459-repeated-substring-pattern](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0709-to-lower-case](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0709-to-lower-case/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## Sorting
 | Problem Name | Difficulty |
