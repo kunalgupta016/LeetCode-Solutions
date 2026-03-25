@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0709-to-lower-case/) | Easy |
 | [2129-capitalize-the-title](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2129-capitalize-the-title/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0169-majority-element](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Math
 | Problem Name | Difficulty |
