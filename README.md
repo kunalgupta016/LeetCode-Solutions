@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2785-sort-vowels-in-a-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2465-number-of-distinct-averages](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
