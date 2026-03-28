@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0520-detect-capital](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0520-detect-capital/) | Easy |
 | [0709-to-lower-case](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0709-to-lower-case/) | Easy |
+| [0771-jewels-and-stones](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0925-long-pressed-name](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0925-long-pressed-name/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [2129-capitalize-the-title](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2129-capitalize-the-title/) | Easy |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0771-jewels-and-stones](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
