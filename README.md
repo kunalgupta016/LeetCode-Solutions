@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [2129-capitalize-the-title](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2129-capitalize-the-title/) | Easy |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Prefix Sum
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## String Matching
