@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2465-number-of-distinct-averages](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2785-sort-vowels-in-a-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Array
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
