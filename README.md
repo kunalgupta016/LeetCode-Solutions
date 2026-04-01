@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0925-long-pressed-name](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0925-long-pressed-name/) | Easy |
 | [0984-string-without-aaa-or-bbb](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1003-check-if-word-is-valid-after-substitutions/) | Medium |
 | [1704-determine-if-string-halves-are-alike](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [2129-capitalize-the-title](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2129-capitalize-the-title/) | Easy |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0224-basic-calculator/) | Hard |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1003-check-if-word-is-valid-after-substitutions/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
