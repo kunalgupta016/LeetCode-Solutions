@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0731-my-calendar-ii/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0986-interval-list-intersections](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0986-interval-list-intersections/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1854-maximum-population-year](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1854-maximum-population-year/) | Easy |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0365-water-and-jug-problem](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0458-poor-pigs](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0458-poor-pigs/) | Hard |
+| [1352-product-of-the-last-k-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0731-my-calendar-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0732-my-calendar-iii/) | Hard |
+| [1352-product-of-the-last-k-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1854-maximum-population-year](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1854-maximum-population-year/) | Easy |
 | [2906-construct-product-matrix](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2906-construct-product-matrix/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0732-my-calendar-iii/) | Hard |
+| [1352-product-of-the-last-k-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -268,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0324-wiggle-sort-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0324-wiggle-sort-ii/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
