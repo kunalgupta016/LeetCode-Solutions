@@ -141,12 +141,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3560-find-minimum-log-transportation-cost](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3560-find-minimum-log-transportation-cost/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2413-smallest-even-multiple](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
