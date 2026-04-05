@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2465-number-of-distinct-averages](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2906-construct-product-matrix](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2906-construct-product-matrix/) | Medium |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2908-minimum-sum-of-mountain-triplets-i/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
