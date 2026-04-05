@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0459-repeated-substring-pattern](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0520-detect-capital](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0520-detect-capital/) | Easy |
+| [0551-student-attendance-record-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0709-to-lower-case/) | Easy |
