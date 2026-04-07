@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1854-maximum-population-year/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1995-count-special-quadruplets](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1995-count-special-quadruplets/) | Easy |
+| [2347-best-poker-hand](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2347-best-poker-hand/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2465-number-of-distinct-averages](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1995-count-special-quadruplets](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
+| [2347-best-poker-hand](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2347-best-poker-hand/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1854-maximum-population-year](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1854-maximum-population-year/) | Easy |
+| [2347-best-poker-hand](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2347-best-poker-hand/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
