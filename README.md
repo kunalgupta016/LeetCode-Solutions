@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3683-earliest-time-to-finish-one-task](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
