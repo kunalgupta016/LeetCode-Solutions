@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
