@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2347-best-poker-hand](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2347-best-poker-hand/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2469-convert-the-temperature](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2525-categorize-box-according-to-criteria](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
