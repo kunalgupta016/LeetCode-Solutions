@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1566-detect-pattern-of-length-m-repeated-k-or-more-times/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1854-maximum-population-year](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1854-maximum-population-year/) | Easy |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2906-construct-product-matrix](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2906-construct-product-matrix/) | Medium |
