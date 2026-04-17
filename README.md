@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3663-find-the-least-frequent-digit](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3663-find-the-least-frequent-digit](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3560-find-minimum-log-transportation-cost](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3560-find-minimum-log-transportation-cost/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3663-find-the-least-frequent-digit](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Number Theory
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3663-find-the-least-frequent-digit](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
