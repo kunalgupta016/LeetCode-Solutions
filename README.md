@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0264-ugly-number-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0697-degree-of-an-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0697-degree-of-an-array/) | Easy |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0224-basic-calculator](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0263-ugly-number](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0263-ugly-number/) | Easy |
+| [0264-ugly-number-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0412-fizz-buzz](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0458-poor-pigs](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0458-poor-pigs/) | Hard |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0264-ugly-number-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0458-poor-pigs](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0458-poor-pigs/) | Hard |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0264-ugly-number-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0506-relative-ranks](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 ## Sweep Line
