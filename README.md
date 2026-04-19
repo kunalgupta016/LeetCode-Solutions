@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2465-number-of-distinct-averages](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1995-count-special-quadruplets](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2347-best-poker-hand](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2347-best-poker-hand/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0984-string-without-aaa-or-bbb](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
