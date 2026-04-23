@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
+| [2615-sum-of-distances](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2906-construct-product-matrix](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2906-construct-product-matrix/) | Medium |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2908-minimum-sum-of-mountain-triplets-i/) | Easy |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2399-check-distances-between-same-letters](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2399-check-distances-between-same-letters/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
+| [2615-sum-of-distances](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0732-my-calendar-iii/) | Hard |
 | [1352-product-of-the-last-k-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1854-maximum-population-year](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1854-maximum-population-year/) | Easy |
+| [2615-sum-of-distances](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2906-construct-product-matrix/) | Medium |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3096-minimum-levels-to-gain-more-points/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
