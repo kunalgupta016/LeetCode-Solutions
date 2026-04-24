@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1995-count-special-quadruplets](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1995-count-special-quadruplets/) | Easy |
+| [2121-intervals-between-identical-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2347-best-poker-hand](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2347-best-poker-hand/) | Easy |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1995-count-special-quadruplets](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2103-rings-and-rods](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2103-rings-and-rods/) | Easy |
+| [2121-intervals-between-identical-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2347-best-poker-hand](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2347-best-poker-hand/) | Easy |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0732-my-calendar-iii/) | Hard |
 | [1352-product-of-the-last-k-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1854-maximum-population-year](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1854-maximum-population-year/) | Easy |
+| [2121-intervals-between-identical-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2615-sum-of-distances](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2906-construct-product-matrix/) | Medium |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3096-minimum-levels-to-gain-more-points/) | Medium |
