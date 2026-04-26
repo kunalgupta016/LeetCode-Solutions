@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1854-maximum-population-year/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1920-build-array-from-permutation](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1995-count-special-quadruplets](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2121-intervals-between-identical-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2069-walking-robot-simulation-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
