@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0396-rotate-function](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0506-relative-ranks](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0365-water-and-jug-problem/) | Medium |
+| [0396-rotate-function](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0412-fizz-buzz](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0458-poor-pigs](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0458-poor-pigs/) | Hard |
 | [1352-product-of-the-last-k-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0264-ugly-number-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0279-perfect-squares/) | Medium |
+| [0396-rotate-function](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0458-poor-pigs](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0458-poor-pigs/) | Hard |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
