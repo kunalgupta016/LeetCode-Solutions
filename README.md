@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0365-water-and-jug-problem/) | Medium |
+| [0437-path-sum-iii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0437-path-sum-iii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0437-path-sum-iii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0437-path-sum-iii/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -476,4 +478,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0437-path-sum-iii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0437-path-sum-iii/) | Medium |
 <!---LeetCode Topics End-->
