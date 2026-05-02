@@ -427,10 +427,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0365-water-and-jug-problem/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0279-perfect-squares](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0365-water-and-jug-problem/) | Medium |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
@@ -455,4 +457,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 <!---LeetCode Topics End-->
