@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
+| [0796-rotate-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0844-backspace-string-compare](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0859-buddy-strings](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0859-buddy-strings/) | Easy |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0796-rotate-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
