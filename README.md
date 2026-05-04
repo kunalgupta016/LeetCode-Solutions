@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
+| [0048-rotate-image](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0867-transpose-matrix](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0224-basic-calculator](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0263-ugly-number](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0263-ugly-number/) | Easy |
