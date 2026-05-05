@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
+| [0061-rotate-list](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
@@ -486,4 +487,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0437-path-sum-iii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0437-path-sum-iii/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
