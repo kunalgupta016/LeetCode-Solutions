@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3660-jump-game-ix](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3660-jump-game-ix/) | Medium |
 | [3663-find-the-least-frequent-digit](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3660-jump-game-ix](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3660-jump-game-ix/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
