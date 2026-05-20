@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0844-backspace-string-compare](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0925-long-pressed-name](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0925-long-pressed-name/) | Easy |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0071-simplify-path/) | Medium |
 | [0224-basic-calculator](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0224-basic-calculator/) | Hard |
+| [0234-palindrome-linked-list](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0844-backspace-string-compare](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1003-check-if-word-is-valid-after-substitutions/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0224-basic-calculator](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0224-basic-calculator/) | Hard |
+| [0234-palindrome-linked-list](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0705-design-hashset](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0705-design-hashset/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
