@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0697-degree-of-an-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0697-degree-of-an-array/) | Easy |
+| [0705-design-hashset](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0705-design-hashset/) | Easy |
 | [0729-my-calendar-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0731-my-calendar-ii/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0697-degree-of-an-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0697-degree-of-an-array/) | Easy |
+| [0705-design-hashset](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0705-design-hashset/) | Easy |
 | [0771-jewels-and-stones](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0859-buddy-strings](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0859-buddy-strings/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0705-design-hashset](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0705-design-hashset/) | Easy |
 | [0729-my-calendar-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0732-my-calendar-iii/) | Hard |
@@ -525,4 +528,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0705-design-hashset](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0705-design-hashset/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0705-design-hashset/) | Easy |
 <!---LeetCode Topics End-->
