@@ -1,21 +1,41 @@
 class MyHashSet {
 public:
 
-    vector<bool> v;
+    vector<list<int>> table;
+    int size = 1000;
+
     MyHashSet() {
-        v.resize(1000001,false);
-    }
+        table.resize(size) ;
+   }
+
+   int hash(int idx){
+    return idx%size;
+   }
     
     void add(int key) {
-        v[key] = true;
+        int idx = hash(key);
+        for(int x:table[idx]){
+            if(x==key){
+                return;
+            }
+
+        }
+        table[idx].push_back(key);
     }
     
     void remove(int key) {
-        v[key] = false;
+        int idx = hash(key);
+        table[idx].remove(key);
     }
     
     bool contains(int key) {
-        return v[key];
+        int idx = hash(key);
+
+        for(int x : table[idx]){
+            if(x == key) return true;
+        }
+
+        return false;
     }
 };
 
