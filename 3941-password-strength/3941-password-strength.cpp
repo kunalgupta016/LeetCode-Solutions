@@ -1,27 +1,26 @@
 class Solution {
 public:
     int passwordStrength(string password) {
-        string s = "!@#$";
-        string st = "abcdefghijklmnopqrstuvwxyz";
-        string str = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-        string stri = "0123456789";
+        bool seen[256] = {false};
         int cnt = 0;
-        set<char> sett;
         for(auto it:password){
-            sett.insert(it);
-        }
-        for(auto it:sett){
-            if(s.find(it)!=string::npos){
+            char ch = it;
+            if(seen[ch]){
+                continue;
+
+            }
+            seen[ch]  = true;
+            if (ch >= 'a' && ch <= 'z') {
+                cnt += 1;
+            }
+            else if (ch >= 'A' && ch <= 'Z') {
+                cnt += 2;
+            }
+            else if (ch >= '0' && ch <= '9') {
+                cnt += 3;
+            }
+            else if(ch=='!' || ch=='@' || ch=='#' || ch=='$'){
                 cnt+=5;
-            }
-            else if(st.find(it)!=string::npos){
-                cnt+=1;
-            }
-            else if(str.find(it)!=string::npos){
-                cnt+=2;
-            }
-            else if(stri.find(it)!=string::npos){
-                cnt+=3;
             }
         }
         return cnt;
