@@ -1,27 +1,21 @@
 class Solution {
 public:
     vector<int> limitOccurrences(vector<int>& nums, int k) {
-        map<int,int> mp;
-        for(int i :nums){
-            mp[i]++;
-        }
-        vector<int> ans;
-        for(auto it:mp){
+         vector<int> res;
+        int count = 0;
 
-            int val = it.first;
-            int freq = it.second;
-            if(freq<=k){
-                for(int i=0;i<freq;i++){
-                    ans.push_back(val);
-                }
+        for (int i = 0; i < nums.size(); i++) {
+            if (i == 0 || nums[i] != nums[i-1]) {
+                count = 1;
+            } else {
+                count++;
             }
-            else{
-                for(int i =0;i<k;i++){
-                    ans.push_back(val);
-                }
+            
+            if (count <= k) {
+                res.push_back(nums[i]);
             }
-
         }
-        return ans;
+
+        return res;
     }
 };
