@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0867-transpose-matrix](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
