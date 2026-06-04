@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0056-merge-intervals](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0079-word-search](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
