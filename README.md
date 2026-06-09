@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3678-smallest-absent-positive-greater-than-average/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3689-maximum-total-subarray-value-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3689-maximum-total-subarray-value-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
