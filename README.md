@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0396-rotate-function](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0455-assign-cookies](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0506-relative-ranks](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
