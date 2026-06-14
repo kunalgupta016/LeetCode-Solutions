@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0506-relative-ranks](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0825-friends-of-appropriate-ages](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0888-fair-candy-swap](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0888-fair-candy-swap/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0731-my-calendar-ii/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0825-friends-of-appropriate-ages](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0867-transpose-matrix](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0455-assign-cookies](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0825-friends-of-appropriate-ages](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0844-backspace-string-compare](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0925-long-pressed-name](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0925-long-pressed-name/) | Easy |
 | [0986-interval-list-intersections](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0986-interval-list-intersections/) | Medium |
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0732-my-calendar-iii/) | Hard |
+| [0825-friends-of-appropriate-ages](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0888-fair-candy-swap](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0888-fair-candy-swap/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
