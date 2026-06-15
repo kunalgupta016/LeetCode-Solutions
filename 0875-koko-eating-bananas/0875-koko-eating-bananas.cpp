@@ -1,10 +1,10 @@
 class Solution {
 public:
 
-    int checkingSpeed(vector<int>&piles,int h){
-        int cnt = 0;
+    long long checkingSpeed(vector<int>&piles,long long h){
+        long long cnt = 0;
         for(int i :piles){
-            cnt+=(i+h-1)/h;
+            cnt+=ceil((double)i/h);
         }
         return cnt;
     }
@@ -15,14 +15,14 @@ public:
         int e = maxi;
         int ans = 0;
         while(s<=e){
-            int mid = s+(e-s)/2;
+            long long mid = s+(e-s)/2;
             if(checkingSpeed(piles,mid)>h){
                 s = mid+1;
             }else{
                 e = mid-1;
-                ans = mid;
+                // ans = mid;
             }
         }
-        return ans;
+        return (int)s;
     }
 };
