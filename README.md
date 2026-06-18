@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0071-simplify-path/) | Medium |
 | [0079-word-search](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0224-basic-calculator](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0412-fizz-buzz](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0434-number-of-segments-in-a-string/) | Easy |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0118-pascals-triangle](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0264-ugly-number-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0077-combinations/) | Medium |
 | [0079-word-search](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 ## Trie
