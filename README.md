@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0051-n-queens](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0077-combinations/) | Medium |
 | [0079-word-search](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
