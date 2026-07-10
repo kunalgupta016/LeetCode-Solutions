@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3560-find-minimum-log-transportation-cost](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3560-find-minimum-log-transportation-cost/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3663-find-the-least-frequent-digit/) | Easy |
