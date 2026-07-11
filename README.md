@@ -680,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0437-path-sum-iii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0437-path-sum-iii/) | Medium |
 | [1306-jump-game-iii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0365-water-and-jug-problem/) | Medium |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1306-jump-game-iii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -786,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -798,5 +801,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 <!---LeetCode Topics End-->
