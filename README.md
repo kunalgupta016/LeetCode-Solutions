@@ -527,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1291-sequential-digits/) | Medium |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1566-detect-pattern-of-length-m-repeated-k-or-more-times/) | Easy |
 | [1995-count-special-quadruplets](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
