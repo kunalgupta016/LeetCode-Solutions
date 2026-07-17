@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0824-goat-latin](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0824-goat-latin/) | Easy |
 | [0844-backspace-string-compare](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0859-buddy-strings](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0859-buddy-strings/) | Easy |
 | [0925-long-pressed-name](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0925-long-pressed-name/) | Easy |
