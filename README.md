@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1352-product-of-the-last-k-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0984-string-without-aaa-or-bbb](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -717,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
