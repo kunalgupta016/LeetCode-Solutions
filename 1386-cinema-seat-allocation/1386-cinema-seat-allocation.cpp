@@ -1,41 +1,37 @@
 class Solution {
 public:
-
-    bool isAvailable(unordered_set<int> st,int val){
-        return st.find(val)==st.end();
-    }
-
     int maxNumberOfFamilies(int n, vector<vector<int>>& reservedSeats) {
-        unordered_map<int,unordered_set<int>> mp;
+        unordered_map<int,int> mp;
         for(auto i:reservedSeats){
-            int f = i[0];
-            int s = i[1];
-            mp[f].insert(s);
+            int row = i[0];
+            int seat = i[1];
+            mp[row] = (mp[row]  | (1<<seat));
         }
 
-        int size = mp.size();
-        int result = (n-size)*2;
+        int result = (n-mp.size())*2;
 
-        for(auto it:mp){
+        int maskA = (1<<2) | (1<<3) | (1<<4) | (1<<5);
+        int maskB = (1<<4) | (1<<5) | (1<<6) | (1<<7);
+        int maskC = (1<<6) | (1<<7) | (1<<8) | (1<<9);
 
-            int f = it.first;
-            unordered_set<int> st= it.second;
+        for(auto & [row,bookedSeatMask]:mp){
 
-            bool groupA = isAvailable(st,2) && isAvailable(st,3) && isAvailable(st,4) && isAvailable(st,5);
-            
-            bool groupB = isAvailable(st,4) && isAvailable(st,5) && isAvailable(st,6) && isAvailable(st,7);
-
-            bool groupC = isAvailable(st,6) && isAvailable(st,7) && isAvailable(st,8) && isAvailable(st,9);
+            bool groupA = (bookedSeatMask & maskA)==0;
+            bool groupB = (bookedSeatMask & maskB)==0;
+            bool groupC = (bookedSeatMask & maskC)==0;
 
             if(groupA && groupC){
                 result+=2;
             }else if(groupA || groupB || groupC){
                 result+=1;
-            }else{
+            }
+            else 
+            {
                 result+=0;
             }
 
         }
+
         return result;
 
     }
