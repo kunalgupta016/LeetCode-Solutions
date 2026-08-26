@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [4024-nearest-available-drone](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/4024-nearest-available-drone/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [4024-nearest-available-drone](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/4024-nearest-available-drone/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
