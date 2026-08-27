@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0888-fair-candy-swap](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0888-fair-candy-swap/) | Easy |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0929-unique-email-addresses](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0986-interval-list-intersections](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0986-interval-list-intersections/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0859-buddy-strings/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0888-fair-candy-swap](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0888-fair-candy-swap/) | Easy |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0929-unique-email-addresses](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0887-super-egg-drop](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0887-super-egg-drop/) | Hard |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
@@ -562,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0169-majority-element](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
@@ -890,4 +895,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 <!---LeetCode Topics End-->
