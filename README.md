@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3560-find-minimum-log-transportation-cost](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3560-find-minimum-log-transportation-cost/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
