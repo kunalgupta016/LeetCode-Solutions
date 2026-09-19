@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0929-unique-email-addresses](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0986-interval-list-intersections](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0986-interval-list-intersections/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [1260-shift-2d-grid](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0731-my-calendar-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0731-my-calendar-ii/) | Medium |
 | [0732-my-calendar-iii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0732-my-calendar-iii/) | Hard |
+| [1004-max-consecutive-ones-iii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -733,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0887-super-egg-drop](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0887-super-egg-drop/) | Hard |
 | [0888-fair-candy-swap](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0888-fair-candy-swap/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -818,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0594-longest-harmonious-subsequence](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
