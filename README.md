@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 | [2615-sum-of-distances](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2855-minimum-right-shifts-to-sort-the-array/) | Easy |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2951-find-the-peaks](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2951-find-the-peaks/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
