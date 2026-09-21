@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3492-maximum-containers-on-a-ship](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3492-maximum-containers-on-a-ship/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
