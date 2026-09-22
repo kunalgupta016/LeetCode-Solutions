@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [4024-nearest-available-drone](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/4024-nearest-available-drone/) | Easy |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
