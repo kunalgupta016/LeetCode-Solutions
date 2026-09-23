@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
