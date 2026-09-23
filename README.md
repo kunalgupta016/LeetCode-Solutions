@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1854-maximum-population-year](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1854-maximum-population-year/) | Easy |
@@ -763,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0887-super-egg-drop/) | Hard |
 | [0888-fair-candy-swap](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0888-fair-candy-swap/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -854,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Backtracking
