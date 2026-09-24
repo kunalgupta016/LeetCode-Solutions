@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0844-backspace-string-compare](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1003-check-if-word-is-valid-after-substitutions/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1260-shift-2d-grid](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2069-walking-robot-simulation-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2069-walking-robot-simulation-ii/) | Medium |
@@ -995,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
