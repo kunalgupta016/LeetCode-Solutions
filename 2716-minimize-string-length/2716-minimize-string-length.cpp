@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minimizedStringLength(string s) {
-        set<char> st;
+        unordered_set<char> st;
         for(char c:s){
             st.insert(c);
         }
