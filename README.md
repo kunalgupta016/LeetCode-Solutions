@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-goat-latin](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0824-goat-latin/) | Easy |
 | [0844-backspace-string-compare](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0859-buddy-strings](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0859-buddy-strings/) | Easy |
+| [0880-decoded-string-at-index](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0880-decoded-string-at-index/) | Medium |
 | [0925-long-pressed-name](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0925-long-pressed-name/) | Easy |
 | [0929-unique-email-addresses](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0984-string-without-aaa-or-bbb](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0844-backspace-string-compare](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
+| [0880-decoded-string-at-index](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0880-decoded-string-at-index/) | Medium |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1003-check-if-word-is-valid-after-substitutions/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
