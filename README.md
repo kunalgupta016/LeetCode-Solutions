@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0825-friends-of-appropriate-ages](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0888-fair-candy-swap](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0888-fair-candy-swap/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0888-fair-candy-swap/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0929-unique-email-addresses](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0929-unique-email-addresses/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0986-interval-list-intersections](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0986-interval-list-intersections/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0999-available-captures-for-rook](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0999-available-captures-for-rook/) | Easy |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0887-super-egg-drop](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0887-super-egg-drop/) | Hard |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
@@ -537,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -639,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Counting
@@ -756,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0506-relative-ranks](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
+| [0973-k-closest-points-to-origin](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -872,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1028,4 +1035,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+## K-D Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
