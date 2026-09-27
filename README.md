@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1352-product-of-the-last-k-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
@@ -756,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Sweep Line
 | Problem Name | Difficulty |
