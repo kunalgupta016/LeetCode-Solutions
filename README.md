@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0999-available-captures-for-rook](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1046-last-stone-weight](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [1260-shift-2d-grid](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
@@ -762,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1046-last-stone-weight](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
