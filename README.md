@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0118-pascals-triangle](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
