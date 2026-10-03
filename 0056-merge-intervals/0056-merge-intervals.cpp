@@ -2,10 +2,10 @@ class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& in) {
         vector<vector<int>> ans;
-        // sort(in.begin(),in.end(),[](vector<int>&a,vector<int>&b){
-        //     return a[1]<b[1];
-        // });
-        sort(in.begin(),in.end());
+        sort(in.begin(),in.end(),[](vector<int>&a,vector<int>&b){
+            return a[0]<b[0];
+        });
+        // sort(in.begin(),in.end());
         int n = in.size();
 
         vector<int> a;
