@@ -1077,4 +1077,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
