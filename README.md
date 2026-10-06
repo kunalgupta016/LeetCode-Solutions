@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0925-long-pressed-name](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0925-long-pressed-name/) | Easy |
 | [0986-interval-list-intersections](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0986-interval-list-intersections/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -844,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0887-super-egg-drop/) | Hard |
 | [0888-fair-candy-swap](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0888-fair-candy-swap/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
