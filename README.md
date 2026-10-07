@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3174-clear-digits](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3174-clear-digits/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
+| [3174-clear-digits](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3174-clear-digits/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -786,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3174-clear-digits](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3174-clear-digits/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
