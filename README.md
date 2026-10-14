@@ -616,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0071-simplify-path/) | Medium |
+| [0155-min-stack](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -874,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0705-design-hashset](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0705-design-hashset/) | Easy |
 | [0729-my-calendar-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0729-my-calendar-i/) | Medium |
