@@ -555,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3663-find-the-least-frequent-digit/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
