@@ -44,6 +44,9 @@ public:
                 next[i]=n;
             }
             int w = next[i] - pre[i] -1;
+            if(w<0){
+                w = 1;
+            }
             int newarea = l*w;
             area = max(area,newarea);
         }
