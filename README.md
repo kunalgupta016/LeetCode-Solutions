@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3853-merge-close-characters](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3853-merge-close-characters/) | Medium |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3853-merge-close-characters](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3853-merge-close-characters/) | Medium |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/4049-count-values-with-equally-spaced-occurrences-ii/) | Medium |
 ## Math
@@ -826,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3853-merge-close-characters](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3853-merge-close-characters/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
