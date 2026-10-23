@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2103-rings-and-rods](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2103-rings-and-rods/) | Easy |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [2129-capitalize-the-title](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2129-capitalize-the-title/) | Easy |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
@@ -813,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2069-walking-robot-simulation-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
