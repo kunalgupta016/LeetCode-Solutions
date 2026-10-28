@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0825-friends-of-appropriate-ages](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0835-image-overlap](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0835-image-overlap/) | Medium |
+| [0849-maximize-distance-to-closest-person](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0849-maximize-distance-to-closest-person/) | Medium |
 | [0867-transpose-matrix](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0874-walking-robot-simulation/) | Medium |
