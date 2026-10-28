@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [4024-nearest-available-drone](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/4024-nearest-available-drone/) | Easy |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3660-jump-game-ix](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3660-jump-game-ix/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -939,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
