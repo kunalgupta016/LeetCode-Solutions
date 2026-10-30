@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3174-clear-digits](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3174-clear-digits/) | Easy |
+| [3407-substring-matching-pattern](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3407-substring-matching-pattern/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
@@ -785,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0796-rotate-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [1668-maximum-repeating-substring](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1668-maximum-repeating-substring/) | Easy |
+| [3407-substring-matching-pattern](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3407-substring-matching-pattern/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
