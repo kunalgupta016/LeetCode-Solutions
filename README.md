@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2032-two-out-of-three](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2032-two-out-of-three/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2057-smallest-index-with-equal-value](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2121-intervals-between-identical-elements/) | Medium |
