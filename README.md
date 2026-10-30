@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0071-simplify-path](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0071-simplify-path/) | Medium |
 | [0079-word-search](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0044-wildcard-matching](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0053-maximum-subarray](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0055-jump-game](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -868,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0044-wildcard-matching](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0060-permutation-sequence/) | Hard |
 | [0203-remove-linked-list-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
