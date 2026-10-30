@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2299-strong-password-checker-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2299-strong-password-checker-ii/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
+| [2315-count-asterisks](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2315-count-asterisks/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2399-check-distances-between-same-letters](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2399-check-distances-between-same-letters/) | Easy |
 | [2409-count-days-spent-together](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
