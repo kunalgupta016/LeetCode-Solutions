@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2126-destroying-asteroids](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2121-intervals-between-identical-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2126-destroying-asteroids](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2032-two-out-of-three](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2032-two-out-of-three/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2103-rings-and-rods](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2103-rings-and-rods/) | Easy |
 | [2121-intervals-between-identical-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
@@ -779,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1291-sequential-digits/) | Medium |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1566-detect-pattern-of-length-m-repeated-k-or-more-times/) | Easy |
 | [1995-count-special-quadruplets](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1995-count-special-quadruplets/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
@@ -893,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
