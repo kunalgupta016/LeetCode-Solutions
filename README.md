@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0224-basic-calculator](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0224-basic-calculator/) | Hard |
+| [0282-expression-add-operators](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0282-expression-add-operators/) | Hard |
 | [0394-decode-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0412-fizz-buzz](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0434-number-of-segments-in-a-string/) | Easy |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0279-perfect-squares/) | Medium |
+| [0282-expression-add-operators](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0282-expression-add-operators/) | Hard |
 | [0292-nim-game](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0292-nim-game/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0396-rotate-function](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
@@ -1026,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0216-combination-sum-iii/) | Medium |
+| [0282-expression-add-operators](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0282-expression-add-operators/) | Hard |
 | [0491-non-decreasing-subsequences](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 ## Trie
