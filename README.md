@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2126-destroying-asteroids](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
