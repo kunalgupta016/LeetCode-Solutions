@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0888-fair-candy-swap/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0929-unique-email-addresses](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0929-unique-email-addresses/) | Easy |
+| [0941-valid-mountain-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0941-valid-mountain-array/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0986-interval-list-intersections](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0986-interval-list-intersections/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
