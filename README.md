@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2103-rings-and-rods](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2103-rings-and-rods/) | Easy |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1995-count-special-quadruplets](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2029-stone-game-ix](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -833,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2069-walking-robot-simulation-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
