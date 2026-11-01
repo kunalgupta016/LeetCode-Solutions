@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0396-rotate-function](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0491-non-decreasing-subsequences/) | Medium |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0396-rotate-function](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0412-fizz-buzz](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0458-poor-pigs](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0458-poor-pigs/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0781-rabbits-in-forest/) | Medium |
