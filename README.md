@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0506-relative-ranks](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0496-next-greater-element-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0458-poor-pigs](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0458-poor-pigs/) | Hard |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0788-rotated-digits](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0788-rotated-digits/) | Medium |
