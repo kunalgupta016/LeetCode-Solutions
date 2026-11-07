@@ -992,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0133-clone-graph](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0207-course-schedule](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0437-path-sum-iii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0437-path-sum-iii/) | Medium |
@@ -1009,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0133-clone-graph](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0207-course-schedule](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0279-perfect-squares](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
@@ -1149,6 +1151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
+| [0207-course-schedule](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Game Theory
@@ -1224,4 +1227,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0292-nim-game/) | Easy |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
