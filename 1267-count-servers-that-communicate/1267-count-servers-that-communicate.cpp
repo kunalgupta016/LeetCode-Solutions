@@ -1,53 +1,31 @@
 class Solution {
 public:
     int countServers(vector<vector<int>>& grid) {
-        int cnt = 0;
-        for (int i = 0; i < grid.size(); i++) {
-            for (int j = 0; j < grid[i].size(); j++) {
-                if (grid[i][j] == 1) {
-                    // row
-                    bool rowhairight = false;
-                    for (int k = j + 1; k < grid[i].size(); k++) {
-                        if (grid[i][k] == 1) {
-                            rowhairight = true;
-                            break;
-                        }
-                    }
+        int n = grid.size();
+        int m = grid[0].size();
+        vector<int> rowcount(n);
+        vector<int> colcount(m);
 
-                    bool rowhaileft = false;
-                    for (int k = j -1; k>=0; k--) {
-                        if (grid[i][k] == 1) {
-                            rowhaileft = true;
-                            break;
-                        }
-                    }
+        for(int i = 0;i<n;i++){
+            for(int j = 0;j<m;j++){
+                if(grid[i][j]==1){
+                    rowcount[i]++;
+                    colcount[j]++;
+                }
+            }
+        }
 
-
-                    bool colhaidown = false;
-
-                    
-                        for (int k = i + 1; k < grid.size(); k++) {
-                            if (grid[k][j] == 1) {
-                                colhaidown = true;
-                                break;
-                            }
-                        }
-                    
-                    bool colhaiupper = false;
-
-                    for (int k = i - 1; k >= 0; k--) {
-                            if (grid[k][j] == 1) {
-                                colhaiupper = true;
-                                break;
-                            }
-                        }
-
-                    if(rowhairight || colhaidown || rowhaileft || colhaiupper){
-                        cnt++;
+        int ans = 0;
+        for(int i = 0;i<n;i++){
+            for(int j = 0;j<m;j++){
+                if(grid[i][j]==1){
+                    if(rowcount[i]>1 || colcount[j]>1){
+                        ans++;
                     }
                 }
             }
         }
-        return cnt;
+        return ans;
+        
     }
 };
