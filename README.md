@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3096-minimum-levels-to-gain-more-points/) | Medium |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3151-special-array-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3151-special-array-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
