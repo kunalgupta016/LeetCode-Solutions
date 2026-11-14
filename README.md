@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3238-find-the-number-of-winning-players](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -758,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2906-construct-product-matrix/) | Medium |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3096-minimum-levels-to-gain-more-points/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -1059,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
