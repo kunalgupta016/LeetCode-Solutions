@@ -574,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0458-poor-pigs](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0458-poor-pigs/) | Hard |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0509-fibonacci-number](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0788-rotated-digits](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0788-rotated-digits/) | Medium |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0458-poor-pigs](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0458-poor-pigs/) | Hard |
+| [0509-fibonacci-number](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0788-rotated-digits](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0788-rotated-digits/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
@@ -931,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
+| [0509-fibonacci-number](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
@@ -1258,4 +1261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/kunalgupta016/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
